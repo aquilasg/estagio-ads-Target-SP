@@ -1,0 +1,15 @@
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\bin\Debug\net6.0\teste3-dados-json.exe
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\bin\Debug\net6.0\teste3-dados-json.deps.json
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\bin\Debug\net6.0\teste3-dados-json.runtimeconfig.json
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\bin\Debug\net6.0\teste3-dados-json.dll
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\bin\Debug\net6.0\teste3-dados-json.pdb
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\obj\Debug\net6.0\teste3-dados-json.csproj.AssemblyReference.cache
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\obj\Debug\net6.0\teste3-dados-json.GeneratedMSBuildEditorConfig.editorconfig
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\obj\Debug\net6.0\teste3-dados-json.AssemblyInfoInputs.cache
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\obj\Debug\net6.0\teste3-dados-json.AssemblyInfo.cs
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\obj\Debug\net6.0\teste3-dados-json.csproj.CoreCompileInputs.cache
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\obj\Debug\net6.0\teste3-dados-json.dll
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\obj\Debug\net6.0\refint\teste3-dados-json.dll
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\obj\Debug\net6.0\teste3-dados-json.pdb
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\obj\Debug\net6.0\teste3-dados-json.genruntimeconfig.cache
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-json\teste3-dados-json\obj\Debug\net6.0\ref\teste3-dados-json.dll
