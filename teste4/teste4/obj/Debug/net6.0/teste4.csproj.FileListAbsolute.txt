@@ -1,0 +1,15 @@
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\obj\Debug\net6.0\teste4.csproj.AssemblyReference.cache
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\obj\Debug\net6.0\teste4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\obj\Debug\net6.0\teste4.AssemblyInfoInputs.cache
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\obj\Debug\net6.0\teste4.AssemblyInfo.cs
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\obj\Debug\net6.0\teste4.csproj.CoreCompileInputs.cache
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\bin\Debug\net6.0\teste4.exe
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\bin\Debug\net6.0\teste4.deps.json
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\bin\Debug\net6.0\teste4.runtimeconfig.json
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\bin\Debug\net6.0\teste4.dll
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\bin\Debug\net6.0\teste4.pdb
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\obj\Debug\net6.0\teste4.dll
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\obj\Debug\net6.0\refint\teste4.dll
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\obj\Debug\net6.0\teste4.pdb
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\obj\Debug\net6.0\teste4.genruntimeconfig.cache
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste4\teste4\obj\Debug\net6.0\ref\teste4.dll
