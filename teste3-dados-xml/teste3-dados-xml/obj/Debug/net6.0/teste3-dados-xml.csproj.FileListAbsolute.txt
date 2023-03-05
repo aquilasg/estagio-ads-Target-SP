@@ -1,0 +1,15 @@
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\bin\Debug\net6.0\teste3-dados-xml.exe
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\bin\Debug\net6.0\teste3-dados-xml.deps.json
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\bin\Debug\net6.0\teste3-dados-xml.runtimeconfig.json
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\bin\Debug\net6.0\teste3-dados-xml.dll
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\bin\Debug\net6.0\teste3-dados-xml.pdb
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\obj\Debug\net6.0\teste3-dados-xml.csproj.AssemblyReference.cache
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\obj\Debug\net6.0\teste3-dados-xml.GeneratedMSBuildEditorConfig.editorconfig
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\obj\Debug\net6.0\teste3-dados-xml.AssemblyInfoInputs.cache
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\obj\Debug\net6.0\teste3-dados-xml.AssemblyInfo.cs
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\obj\Debug\net6.0\teste3-dados-xml.csproj.CoreCompileInputs.cache
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\obj\Debug\net6.0\teste3-dados-xml.dll
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\obj\Debug\net6.0\refint\teste3-dados-xml.dll
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\obj\Debug\net6.0\teste3-dados-xml.pdb
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\obj\Debug\net6.0\teste3-dados-xml.genruntimeconfig.cache
+D:\Áquilas\Desk Acer\Cursos Programação\estagio-ads-Target-SP\teste3-dados-xml\teste3-dados-xml\obj\Debug\net6.0\ref\teste3-dados-xml.dll
